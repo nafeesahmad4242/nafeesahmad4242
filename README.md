@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Nafees Ahmad 👋
 
-<!--
-**nafeesahmad4242/nafeesahmad4242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer with 6+ years of experience
+building production-grade web applications.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **CMS:** WordPress, WooCommerce, Elementor, ACF
+- **Backend:** PHP, Laravel, Core PHP
+- **Frontend:** HTML, CSS, SASS, JavaScript, jQuery, Bootstrap
+- **Database:** MySQL, MySQLi, phpMyAdmin
+- **Tools:** cPanel, WP Engine, REST APIs, Git
+
+## 💼 What I Build
+
+- Custom WordPress Themes & Plugins
+- Laravel Applications & Admin Panels
+- SaaS Platforms & Client Portals
+- WooCommerce Stores
+- REST APIs & Third-party Integrations
+
+## 📊 Experience
+
+- 5+ Years Professional Experience
+- 100+ Projects Delivered
+- Clients: USA, Australia, Pakistan
+
+## 📩 Contact
+
+- Email: miannafeesp786@gmail.com
+- WhatsApp: +92343-0852310
+- LinkedIn: linkedin.com/in/nafees-fullstack-dev
